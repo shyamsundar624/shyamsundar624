@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shyamsundar624
 - 👀 I’m interested in as Java Full Stack Developer
-- 🌱 I’m currently learning Spring boots
+- 🌱 I’m currently working as Software Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shyamsundar624 (LinkedIn)
 
